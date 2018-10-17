@@ -1,0 +1,13 @@
+body{
+   
+    background-color: black;
+}
+
+.jumbotron{
+    background-image: url(../images/wagons.jpg);
+    background-position: center;
+    opacity: 0.9;
+    color:rgb(255, 230, 0);
+    font-family: 'Press Start 2P', cursive;
+    text-shadow: 2px 2px 0px #333;
+}
